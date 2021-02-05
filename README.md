@@ -1,4 +1,4 @@
-![<maow/>](https://i.imgur.com/mvOReh3.png)
+![<maow/>](https://i.imgur.com/AjOIra6.png)
 
 <hr>
 
