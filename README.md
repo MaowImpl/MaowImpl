@@ -1,16 +1,12 @@
-### Hi there 👋
+![<maow/>](https://i.imgur.com/mvOReh3.png)
 
-<!--
-**MaowImpl/MaowImpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```xml
+<description>
+  Hi I'm Maow, I am a (mostly) independent Java developer.
+  I develop a lot of libraries, of which are always MIT-licensed, as I have a strong FOSS philosophy.
+  I mainly just code for fun but a lot of my projects are designed to serve some purpose.
+  Go ahead and check out my pins, those are some of my favorite projects I've made.
+</description>
+```
